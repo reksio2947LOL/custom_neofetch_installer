@@ -10,6 +10,12 @@ Narzędzie działa na każdym repozytorium Linux i aktualizuje repozytoria!
 
 Wszystkie dystrybucje: chmod +x neofetch_installer.sh && ./neofetch_installer.sh
 
-#Jak odinstalować?
+# Jak odinstalować?
 
 Wszystkie dystrybucje: chmod +x neofetch_uninstaller.sh && ./neofetch_uninstaller.sh
+
+# Dodatkowe słowa
+
+To jest mój pierwszy kod!
+
+Dziękuję workonfire#8262 za pomoc!
