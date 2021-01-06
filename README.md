@@ -6,7 +6,14 @@ Wybróbuj Custom neofetch installer!
 
 Narzędzie działa na każdym repozytorium Linux i aktualizuje repozytoria!
 
+# Potrzebne 2 pliki:
+
+neofetch_installer.sh
+
+neofetch_uninstaller.sh
+
 # Jak zainstalować?
+
 
 Wszystkie dystrybucje: chmod +x neofetch_installer.sh && ./neofetch_installer.sh
 
